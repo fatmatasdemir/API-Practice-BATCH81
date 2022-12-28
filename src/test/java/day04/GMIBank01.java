@@ -25,7 +25,7 @@ public class GMIBank01 extends GMIBankBaseURL {
      3) Tüm Customer SSN lerini text dosyası olarak kaydedin
      4) Olusturduğunuz text dosyasından  SSNleri okuyarak
         "531-95-8437", "049-43-2360", "123-34-3434" SSNlerinin olduğunu doğrulayın
-     */
+     *////
 
     @Test
     public void test10() throws JsonProcessingException {
